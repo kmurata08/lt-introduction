@@ -1,6 +1,7 @@
 ---
-theme: "black"
+theme: "sky"
 title: "自己紹介"
+enableMenu: false
 ---
 
 ## 社内LT 自己紹介
