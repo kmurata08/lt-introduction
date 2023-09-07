@@ -18,7 +18,7 @@ title: "自己紹介"
 --
 
 ## 七福軒のラーメン
-<img src="https://tblg.k-img.com/restaurant/images/Rvw/193512/640x640_rect_69f2ec4a62e062693f17398320714070.jpg" height="600px">
+<img src="https://tblg.k-img.com/restaurant/images/Rvw/193512/640x640_rect_69f2ec4a62e062693f17398320714070.jpg" height="300px">
 
 エスカルゴバターと鶏そばの組み合わせが最強。<br>
 大学時代週3で通ってた。
